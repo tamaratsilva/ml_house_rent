@@ -23,7 +23,10 @@ O dataset contém as seguintes colunas:
 | sales | Retorno das vendas |
 
 ---
-
+**Ferramentas recomendadas:**
+- `Pandas` para manipulação de dados.
+- Bibliotecas de visualização (ex.: `Matplotlib`, `Seaborn`) para explorar distribuições e relações.
+  
 ## **Etapas de Desenvolvimento**
 
 ### **Etapa 1: Análise Descritiva**
@@ -58,3 +61,7 @@ O dataset contém as seguintes colunas:
 Com esses ajustes, conseguimos construir um modelo mais robusto e preciso para estimar os preços dos imóveis, com base nas variáveis disponíveis.
 
 Esse estudo de caso é um exemplo prático de como aplicar **Machine Learning** para resolver problemas de regressão, abrangendo desde a **análise exploratória** até a **implantação do modelo** em produção.
+
+## Recursos Complementares
+- [**Python Graph Gallery**](https://www.python-graph-gallery.com/): Aprenda a criar visualizações eficazes.
+- [**Scikit-Learn**](https://scikit-learn.org/stable/modules/clustering.html#clustering): Documentação de modelos de regressão e clustering.
