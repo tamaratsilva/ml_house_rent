@@ -1,4 +1,5 @@
-#ml_previsão_imovéis
+# ml_previsão_imovéis
+
 Neste projeto, aplicamos várias técnicas de regressão para prever preços de imóveis e escolhemos o XGBoost como melhor modelo inicial. Em seguida, otimizamos esse algoritmo com Grid Search e conseguimos reduzir ainda mais o erro das previsões ajustando alguns hiperparâmetros importantes.
 
 As principais lições aprendidas foram:
